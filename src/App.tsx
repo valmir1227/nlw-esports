@@ -15,9 +15,28 @@ function App() {
         </span>
         está aqui.
       </h1>
-      <div className="grind grid-cols-6 gap-6">
-    <a href=""></a>
+      <div className="grid grid-cols-6 gap-6 mt-16">
+        <a href="">
+          <img src="/game-1.png" alt="" />
+        </a>
 
+        <a href="">
+          <img src="/game-2.png" alt="" />
+        </a>
+
+        <a href="">
+          <img src="/game-3.png" alt="" />
+        </a>
+
+        <a href="">
+          <img src="/game-4.png" alt="" />
+        </a>
+
+        <a href="">
+          <img src="/game-5.png" alt="" />
+        </a>
+
+        
       </div>
     </div>
   );
